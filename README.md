@@ -7,6 +7,9 @@ The dashboard provides insights into sales performance, revenue trends, city-wis
 
 ---
 
+📊 Dashboard Preview
+
+<img width="1459" height="941" alt="Dashboard_Screenshot" src="https://github.com/user-attachments/assets/68ea61f5-a74e-4fc5-8094-0fe3035f5ced" />
 
 ## 🛠 Tools Used
 
@@ -22,6 +25,8 @@ The dashboard provides insights into sales performance, revenue trends, city-wis
 * Total Stores: 20
 * Top Performing City: Chittagong
 * YoY Growth: 3.1%
+* Weekday sales 2.75x higher than weekends
+* Revenue on regular days is 3.26 times higher than holidays
 
 
 ## 📊 Dashboard Features
