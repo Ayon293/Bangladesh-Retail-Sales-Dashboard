@@ -24,9 +24,8 @@ The dashboard provides insights into sales performance, revenue trends, city-wis
 * Total Sales: 1.32 Crore Units
 * Total Stores: 20
 * Top Performing City: Chittagong
-* YoY Growth: 3.1%
 * Weekday sales 2.75x higher than weekends
-* Revenue on regular days is 3.26 times higher than holidays
+* Revenue on regular days is 3.26x higher than holidays
 
 
 ## 📊 Dashboard Features
